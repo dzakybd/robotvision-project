@@ -1,0 +1,40 @@
+로봇 비전 특론
+
+* 다음 영상은:
+(a) 살인 사건 현상에서 피해자의 옷에서 말선 된 범인으로 추정되는 인물의 지문이다. 지문 인식을 위해 지문을 추출하시오.
+(b) 단에 서 신송 된을 사진이 다 Noise를 제 거 하시 오.
+
+http://harmony.cs.pusan.ac.kr → lecture note → 대하 원에 그림 있음.
+
+(2) 자율 주행 자동차 (혹은 로봇)에 부착 된 카메라가 실시간으로 들어오는 영상에서 텍스트를 탐지하는 프로그램. 휴대폰을 사용할 것. 합성 이미지 사용.
+
+* 제출 기한과 조건 :
+(a) 제출 기한, 5 원 24 일 (금) 오후 5시 제출 기한 엄수 바람. 이후 세출은 안받음.
+(b) USB에 보고서와 source code, 그리고 시연 동영상을 넣어서 제줄.
+(2) 번 과제의 경우 프로그램의 편의를 위해서 동일한 font의 text로 합성 이미지를 사용해도 됨. 잘하고 싶은 사람은 위와 같은 이미지를 구해서해도 됨. 그리고 움직이는 자동 차나 로봇의 상황을 구현하기 위해서 휴대폰이나 USB 카메라를 사용하여 비추면서 시연 영상을 찍을 것.
+
+Advanced Robot Vision
+http://harmony.cs.pusan.ac.kr → lecture note → There is a picture in Daehae circle.
+
+* The following image:
+(a) It is a fingerprint of a person who is presumed to be a criminal in the victim 's clothes in the murder phenomenon. Extract fingerprints for fingerprint recognition.
+
+(b) Remove the noise from the photo that was sent from the moon.
+
+(2) Autonomous car A program that detects the text on a video coming from a camera attached to an automobile (or robot) in real time. Use a mobile phone. Using composite images.
+
+* Submission deadline and conditions:
+(a) Deadline for submission, 24th (Fri), 5 pm. Thereafter, no appropriation is made.
+(b) Put a report, source code, and a demonstration video on USB.
+(2) In the case of task, you can use the composite image with the text of the same font for convenience of the program. The person who wants to do well can get the above image. To demonstrate the situation of a moving car or robot, take a demonstration video using a mobile phone or a USB camera.
+
+-------------------
+Task:
+- Fingerprint feature extraction
+- Image noise remover
+- Road sign text recognition
+
+Submit:
+- Video demo
+- Report
+- Source code
