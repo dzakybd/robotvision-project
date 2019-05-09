@@ -17,9 +17,9 @@ Advanced Robot Vision
 http://harmony.cs.pusan.ac.kr → lecture note → There is a picture in Daehae circle.
 
 * The following image:
-(a) It is a fingerprint of a person who is presumed to be a criminal in the victim 's clothes in the murder phenomenon. Extract fingerprints for fingerprint recognition.
+(a) It is a fingerprint of a person who is presumed to be a criminal in the victim's clothes in the murder phenomenon. Extract fingerprints for fingerprint recognition.
 
-(b) Remove the noise from the photo that was sent from the moon.
+(b) Remove the noise from the photo that was sent from the moon. (periodic noise / halftone /sinusoidal noise)
 
 (2) Autonomous car A program that detects the text on a video coming from a camera attached to an automobile (or robot) in real time. Use a mobile phone. Using composite images.
 
