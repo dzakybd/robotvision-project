@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f62a7f1-478c-458c-bfbc-ce2f8252cd1c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Files/Note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Files/Note.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task2 - Image noise remover/PythonScientific.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task3 - Road sign text recognition/Content/Code/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task3 - Road sign text recognition/Content/Dataset/Guideline.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task3 - Road sign text recognition/Content/Result/Guideline.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task3 - Road sign text recognition/Demo/Video.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task3 - Road sign text recognition/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task3 - Road sign text recognition/Report/Report.aux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task3 - Road sign text recognition/Report/Report.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task3 - Road sign text recognition/Report/Report.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task3 - Road sign text recognition/Report/Report.synctex.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task3 - Road sign text recognition/Report/Report.tex" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Files/Note.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="26" column="78" lean-forward="true" selection-start-line="26" selection-start-column="78" selection-end-line="26" selection-end-column="78" />
+            <state relative-caret-position="114">
+              <caret line="6" column="59" lean-forward="true" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -44,10 +52,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="847" />
-    <option name="y" value="-15" />
-    <option name="width" value="974" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="1294" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
@@ -89,11 +96,6 @@
               <item name="robotvision-project" type="462c0819:PsiDirectoryNode" />
               <item name="Task2 - Image noise remover" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="robotvision-project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="robotvision-project" type="462c0819:PsiDirectoryNode" />
-              <item name="Task3 - Road sign text recognition" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -102,6 +104,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -135,21 +138,14 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5168000" />
+    <option name="totallyTimeSpent" value="5203000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="0" width="1294" height="1047" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5097245" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -157,11 +153,17 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,8 +172,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Files/Note.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="78" lean-forward="true" selection-start-line="26" selection-start-column="78" selection-end-line="26" selection-end-column="78" />
+        <state relative-caret-position="114">
+          <caret line="6" column="59" lean-forward="true" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
         </state>
       </provider>
     </entry>
