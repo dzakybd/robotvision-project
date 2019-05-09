@@ -50,12 +50,6 @@ The process consists of preprocessing of TCGA-PRAD dataset, consist of feature s
 \item \textbf{PC}: Windows 10 64-bit, Intel i5-7500, RAM 4 GB
 \end{itemize}
 
-\begin{figure}
-  \includegraphics[width=1\linewidth]{system_design}
-  \centering
-  \caption{System Design}
-  \label{fig:system_design}
-\end{figure}
 
 \subsection{Preprocessing}
 \begin{itemize}
@@ -68,12 +62,6 @@ The process consists of preprocessing of TCGA-PRAD dataset, consist of feature s
 \subsection{Classification}
 \begin{itemize}
 \item \textbf{Dataset split}: We split the dataset, 70\% for train data \& 30\% for test data of each data group (not severe and severe/HGPCa that illustrated in Figure \ref{fig:data_split}.
-\begin{figure}
-  \includegraphics[width=0.4\linewidth]{data_split}
-  \centering
-  \caption{Dataset split}
-  \label{fig:data_split}
-\end{figure}
 \item \textbf{Training and evaluation}: This project perform on several machine learning algorithms, namely \textit{Logistic Regression}, \textit{K-Nearest Neighbor}, \textit{Support Vector Machine}, \textit{Multilayer Perceptron}. In the experiments, we evaluate parameters for each machine learning method to find the one that gives highest accuracy.
 \end{itemize}
 
@@ -94,38 +82,6 @@ The process consists of preprocessing of TCGA-PRAD dataset, consist of feature s
 This project succeeds in implementing machine learning techniques to classify high-grade prostate cancer risk using DNA methylation data. From the experiments, the result shows that SVM and MLP give the highest accuracy at the same value, 76.97\%.
 \par
 Future work to increase the performance accuracy are further explore in tuning the other parameters of each machine learning algorithms and try in combining the other dataset features, such as SNP, Exon, the other clinical data information (hereditary factors, alcohol consumption, sexual activity, race, etc.).
-
-\begin{figure}[h]
-	\centering
-	\begin{minipage}[t]{8.6cm}
-\includegraphics[width=0.4\linewidth]{LR}
-  \centering
-  \caption{Evaluation on Logistic Regression}
-  \label{fig:LR}
-	\end{minipage}
-	\begin{minipage}[t]{8.6cm}
-	\includegraphics[width=0.65\linewidth]{KNN}
-  \centering
-  \caption{Evaluation on K-Nearest Neighbor}
-  \label{fig:KNN}
-	\end{minipage}
-\end{figure}
-
-\begin{figure}[h]
-	\centering
-	\begin{minipage}[t]{8.6cm}
-\includegraphics[width=0.8\linewidth]{SVM}
-  \centering
-  \caption{Evaluation on Support Vector Machine}
-  \label{fig:SVM}
-	\end{minipage}
-	\begin{minipage}[t]{8.6cm}
-	\includegraphics[width=0.92\linewidth]{MLP}
-  \centering
-  \caption{Evaluation on Multilayer Perceptron}
-  \label{fig:MLP}
-	\end{minipage}
-\end{figure}
 
 \begin{thebibliography}{1}
 \bibitem{prostate} Ilir Agalliu, Robert Gern, Suzanne Leanza, and Robert D. Burk. 2009. {\em Associations of High-Grade Prostate Cancer with BRCA1 and BRCA2 Founder Mutations.} Clinical Cancer Research. Vol. 15, No. 3.
