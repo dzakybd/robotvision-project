@@ -21,6 +21,8 @@ http://harmony.cs.pusan.ac.kr → lecture note → There is a picture in Daehae 
 
 (b) Remove the noise from the photo that was sent from the moon. (periodic noise / halftone /sinusoidal noise)
 
+This example creates periodic noise by adding two 2-D sinusoids with varying frequency and phase to the video frames. Then it removes this noise using a frequency-domain or spatial-domain filter
+
 (2) Autonomous car A program that detects the text on a video coming from a camera attached to an automobile (or robot) in real time. Use a mobile phone. Using composite images.
 
 * Submission deadline and conditions:

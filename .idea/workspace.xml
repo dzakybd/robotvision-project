@@ -2,16 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f62a7f1-478c-458c-bfbc-ce2f8252cd1c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Task3 - Road sign text recognition/Content/Code/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task3 - Road sign text recognition/Content/Dataset/Guideline.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task3 - Road sign text recognition/Content/Result/Guideline.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task3 - Road sign text recognition/Demo/Video.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task3 - Road sign text recognition/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task3 - Road sign text recognition/Report/Report.aux" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task3 - Road sign text recognition/Report/Report.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task3 - Road sign text recognition/Report/Report.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task3 - Road sign text recognition/Report/Report.synctex.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task3 - Road sign text recognition/Report/Report.tex" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task2 - Image noise remover/Content/Code/fg.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task2 - Image noise remover/Content/Dataset/moon.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/robotvision-project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/robotvision-project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files/Note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Files/Note.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/.idea/Source Code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2 - Image noise remover/Clown.tif" beforeDir="false" afterPath="$PROJECT_DIR$/Task2 - Image noise remover/Content/Dataset/Clown.tif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2 - Image noise remover/Content/Code/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task2 - Image noise remover/Content/Code/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2 - Image noise remover/Halftone.tif" beforeDir="false" afterPath="$PROJECT_DIR$/Task2 - Image noise remover/Content/Dataset/Halftone.tif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2 - Image noise remover/aerialpompeiiperiodic.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Task2 - Image noise remover/Content/Dataset/aerialpompeiiperiodic.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2 - Image noise remover/face2descreen.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Task2 - Image noise remover/Content/Dataset/face2descreen.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2 - Image noise remover/mit_noise_periodic.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Task2 - Image noise remover/Content/Dataset/mit_noise_periodic.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2 - Image noise remover/moon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Task2 - Image noise remover/Content/Code/b.jpg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,18 +28,50 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Files/Note.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="59" lean-forward="true" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
+            <state relative-caret-position="116">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Task2 - Image noise remover/Content/Code/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>imshow</find>
+      <find>M</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,24 +80,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Files/Note.txt" />
+        <option value="$PROJECT_DIR$/Task2 - Image noise remover/Content/Code/main.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/robotvision-project.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="1294" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -89,12 +122,33 @@
               <item name="robotvision-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="robotvision-project" type="462c0819:PsiDirectoryNode" />
               <item name="Task1 - Fingerprint feature extraction" type="462c0819:PsiDirectoryNode" />
-              <item name="Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="Content" type="462c0819:PsiDirectoryNode" />
+              <item name="Dataset" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="robotvision-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="robotvision-project" type="462c0819:PsiDirectoryNode" />
               <item name="Task2 - Image noise remover" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="robotvision-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="robotvision-project" type="462c0819:PsiDirectoryNode" />
+              <item name="Task2 - Image noise remover" type="462c0819:PsiDirectoryNode" />
+              <item name="Content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="robotvision-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="robotvision-project" type="462c0819:PsiDirectoryNode" />
+              <item name="Task2 - Image noise remover" type="462c0819:PsiDirectoryNode" />
+              <item name="Content" type="462c0819:PsiDirectoryNode" />
+              <item name="Code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="robotvision-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="robotvision-project" type="462c0819:PsiDirectoryNode" />
+              <item name="Task2 - Image noise remover" type="462c0819:PsiDirectoryNode" />
+              <item name="Content" type="462c0819:PsiDirectoryNode" />
+              <item name="Dataset" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -107,9 +161,15 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Task2 - Image noise remover/Content/Code" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="PyScientificConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HANSUNG\Documents\Dzaky's Projects\robotvision-project\Task2 - Image noise remover\Content\Code" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -123,6 +183,54 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="robotvision-project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="robotvision-project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task2 - Image noise remover/Content/Code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task2 - Image noise remover/Content/Code/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -134,21 +242,22 @@
       <option name="presentableId" value="Default" />
       <updated>1557372511293</updated>
       <workItem from="1557372512831" duration="5168000" />
+      <workItem from="1557396823405" duration="10107000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5203000" />
+    <option name="totallyTimeSpent" value="15310000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1294" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1296" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5097245" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23058252" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3764321" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -156,24 +265,54 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.7643208" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="11" visible="true" weight="0.47954175" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" x="0" y="0" width="274" height="544" id="Documentation" sideWeight="0.50487804" side_tool="true" weight="0.30987054" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" x="810" y="134" width="181" height="381" id="SciView" order="3" sideWeight="0.49512196" visible="true" weight="0.30987054" />
+      <window_info anchor="right" id="Database" order="4" sideWeight="0.49756098" weight="0.32928804" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/robotvision_project$main.coverage" NAME="main Coverage Results" MODIFIED="1557403961404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task2 - Image noise remover/Content/Code" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Task2 - Image noise remover/Content/Dataset/manonmoon.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task2 - Image noise remover/Content/Dataset/moon.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task2 - Image noise remover/Content/Code/b.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Files/Note.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="59" lean-forward="true" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
+        <state relative-caret-position="116">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task2 - Image noise remover/Content/Code/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
