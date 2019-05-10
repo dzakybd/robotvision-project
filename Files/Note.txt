@@ -1,4 +1,4 @@
-로봇 비전 특론
+﻿로봇 비전 특론
 
 * 다음 영상은:
 (a) 살인 사건 현상에서 피해자의 옷에서 말선 된 범인으로 추정되는 인물의 지문이다. 지문 인식을 위해 지문을 추출하시오.
@@ -17,13 +17,16 @@ Advanced Robot Vision
 http://harmony.cs.pusan.ac.kr → lecture note → There is a picture in Daehae circle.
 
 * The following image:
-(a) It is a fingerprint of a person who is presumed to be a criminal in the victim's clothes in the murder phenomenon. Extract fingerprints for fingerprint recognition.
+(a) It is a fingerprint of a person who is presumed to be a criminal in the victim's clothes in the murder phenomenon. Extract fingerprints for fingerprint recognition. (Latent fingerprint)
+Judul: Latent Fingerprint Minutae Extraction using ResNet
 
 (b) Remove the noise from the photo that was sent from the moon. (periodic noise / halftone /sinusoidal noise)
+Judul: Periodic Noise Reduction using Adaptive Notch Filter
 
 This example creates periodic noise by adding two 2-D sinusoids with varying frequency and phase to the video frames. Then it removes this noise using a frequency-domain or spatial-domain filter
 
-(2) Autonomous car A program that detects the text on a video coming from a camera attached to an automobile (or robot) in real time. Use a mobile phone. Using composite images.
+(c) Autonomous car A program that detects the text on a video coming from a camera attached to an automobile (or robot) in real time. Use a mobile phone. Using composite images.
+Judul: Scene Text Recognition using 3D ResNet
 
 * Submission deadline and conditions:
 (a) Deadline for submission, 24th (Fri), 5 pm. Thereafter, no appropriation is made.

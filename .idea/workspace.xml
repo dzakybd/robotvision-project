@@ -2,25 +2,1020 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f62a7f1-478c-458c-bfbc-ce2f8252cd1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Task2 - Image noise remover/Content/Code/fg.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task2 - Image noise remover/Content/Dataset/moon.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/robotvision-project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/robotvision-project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Files/Note.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Files/Note.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/.idea/Source Code.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task2 - Image noise remover/Clown.tif" beforeDir="false" afterPath="$PROJECT_DIR$/Task2 - Image noise remover/Content/Dataset/Clown.tif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task2 - Image noise remover/Content/Code/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task2 - Image noise remover/Content/Code/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task2 - Image noise remover/Halftone.tif" beforeDir="false" afterPath="$PROJECT_DIR$/Task2 - Image noise remover/Content/Dataset/Halftone.tif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task2 - Image noise remover/aerialpompeiiperiodic.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Task2 - Image noise remover/Content/Dataset/aerialpompeiiperiodic.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task2 - Image noise remover/face2descreen.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Task2 - Image noise remover/Content/Dataset/face2descreen.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task2 - Image noise remover/mit_noise_periodic.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Task2 - Image noise remover/Content/Dataset/mit_noise_periodic.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task2 - Image noise remover/moon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Task2 - Image noise remover/Content/Code/b.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/09_chapter4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/1201.1422.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Code/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Code/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/102_2.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/Appendixes_sd04.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0001_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0001_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0002_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0002_05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0003_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0003_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0004_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0004_05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0005_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0005_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0006_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0006_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0007_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0007_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0008_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0008_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0009_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0009_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0010_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0010_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0011_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0011_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0012_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0012_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0013_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0013_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0014_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0014_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0015_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0015_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0016_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0016_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0017_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0017_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0018_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0018_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0019_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0019_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0020_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0020_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0021_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0021_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0022_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0022_05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0023_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0023_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0024_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0024_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0025_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0025_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0026_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0026_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0027_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0027_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0028_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0028_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0029_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0029_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0030_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0030_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0031_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0031_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0032_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0032_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0033_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0033_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0034_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0034_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0035_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0035_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0036_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0036_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0037_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0037_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0038_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0038_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0039_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0039_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0040_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0040_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0041_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0041_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0042_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0042_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0043_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0043_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0044_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0044_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0045_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0045_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0046_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0046_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0047_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0047_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0048_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0048_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0049_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0049_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0050_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0050_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0051_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0051_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0052_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0052_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0053_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0053_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0054_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0054_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0055_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0055_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0056_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0056_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0057_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0057_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0058_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0058_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0059_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0059_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0060_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0060_05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0061_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0061_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0062_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0062_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0063_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0063_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0064_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0064_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0065_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0065_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0066_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0066_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0067_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0067_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0068_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0068_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0069_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0069_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0070_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0070_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0071_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0071_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0072_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0072_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0073_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0073_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0074_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0074_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0075_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0075_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0076_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0076_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0077_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0077_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0078_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0078_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0079_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0079_05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0080_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0080_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0081_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0081_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0082_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0082_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0083_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0083_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0084_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0084_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0085_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0085_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0086_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0086_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0087_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0087_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0088_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0088_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0089_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0089_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0090_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0090_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0091_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0091_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0092_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0092_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0093_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0093_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0094_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0094_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0095_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0095_05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0096_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0096_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0097_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0097_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0098_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0098_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0099_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0099_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0100_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0100_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0101_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0101_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0102_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0102_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0103_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0103_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0104_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0104_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0105_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0105_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0106_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0106_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0107_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0107_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0108_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0108_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0109_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0109_05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0110_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0110_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0111_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0111_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0112_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0112_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0113_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0113_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0114_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0114_05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0115_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0115_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0116_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0116_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0117_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0117_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0118_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0118_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0119_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0119_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0120_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0120_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0121_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0121_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0122_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0122_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0123_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0123_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0124_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0124_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0125_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0125_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0126_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0126_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0127_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0127_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0128_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0128_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0129_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0129_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0130_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0130_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0131_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0131_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0132_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0132_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0133_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0133_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0134_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0134_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0135_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0135_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0136_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0136_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0137_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0137_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0138_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0138_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0139_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0139_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0140_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0140_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0141_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0141_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0142_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0142_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0143_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0143_05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0144_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0144_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0145_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0145_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0146_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0146_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0147_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0147_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0148_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0148_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0149_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0149_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0150_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0150_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0151_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0151_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0152_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0152_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0153_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0153_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0154_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0154_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0155_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0155_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0156_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0156_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0157_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0157_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0158_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0158_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0159_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0159_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0160_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0160_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0161_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0161_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0162_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0162_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0163_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0163_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0164_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0164_05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0165_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0165_05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0166_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0166_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0167_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0167_05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0168_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0168_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0169_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0169_05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0170_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0170_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0171_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0171_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0172_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0172_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0173_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0173_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0174_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0174_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0175_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0175_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0176_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0176_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0177_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0177_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0178_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0178_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0179_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0179_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0180_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0180_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0181_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0181_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0182_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0182_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0183_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0183_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0184_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0184_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0185_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0185_05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0186_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0186_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0187_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0187_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0188_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0188_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0189_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0189_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0190_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0190_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0191_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0191_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0192_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0192_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0193_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0193_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0194_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0194_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0195_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0195_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0196_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0196_05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0197_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0197_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0198_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0198_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0199_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0199_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0200_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0200_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0201_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0201_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0202_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0202_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0203_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0203_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0204_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0204_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0205_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0205_05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0206_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0206_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0207_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0207_05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0208_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0208_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0209_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0209_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0210_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0210_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0211_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0211_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0212_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0212_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0213_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0213_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0214_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0214_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0215_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0215_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0216_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0216_05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0217_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0217_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0218_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0218_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0219_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0219_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0220_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0220_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0221_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0221_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0222_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0222_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0223_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0223_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0224_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0224_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0225_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0225_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0226_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0226_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0227_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0227_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0228_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0228_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0229_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0229_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0230_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0230_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0231_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0231_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0232_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0232_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0233_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0233_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0234_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0234_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0235_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0235_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0236_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0236_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0237_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0237_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0238_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0238_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0239_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0239_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0240_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0240_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0241_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0241_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0242_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0242_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0243_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0243_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0244_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0244_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0245_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0245_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0246_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0246_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0247_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0247_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0248_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0248_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0249_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0249_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0250_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/f0250_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0001_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0001_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0002_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0002_05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0003_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0003_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0004_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0004_05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0005_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0005_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0006_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0006_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0007_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0007_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0008_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0008_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0009_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0009_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0010_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0010_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0011_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0011_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0012_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0012_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0013_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0013_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0014_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0014_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0015_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0015_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0016_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0016_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0017_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0017_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0018_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0018_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0019_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0019_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0020_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0020_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0021_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0021_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0022_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0022_05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0023_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0023_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0024_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0024_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0025_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0025_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0026_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0026_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0027_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0027_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0028_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0028_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0029_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0029_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0030_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0030_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0031_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0031_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0032_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0032_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0033_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0033_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0034_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0034_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0035_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0035_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0036_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0036_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0037_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0037_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0038_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0038_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0039_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0039_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0040_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0040_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0041_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0041_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0042_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0042_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0043_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0043_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0044_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0044_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0045_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0045_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0046_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0046_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0047_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0047_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0048_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0048_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0049_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0049_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0050_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0050_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0051_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0051_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0052_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0052_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0053_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0053_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0054_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0054_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0055_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0055_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0056_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0056_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0057_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0057_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0058_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0058_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0059_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0059_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0060_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0060_05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0061_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0061_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0062_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0062_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0063_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0063_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0064_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0064_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0065_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0065_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0066_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0066_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0067_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0067_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0068_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0068_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0069_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0069_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0070_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0070_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0071_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0071_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0072_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0072_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0073_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0073_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0074_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0074_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0075_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0075_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0076_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0076_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0077_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0077_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0078_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0078_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0079_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0079_05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0080_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0080_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0081_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0081_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0082_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0082_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0083_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0083_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0084_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0084_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0085_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0085_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0086_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0086_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0087_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0087_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0088_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0088_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0089_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0089_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0090_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0090_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0091_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0091_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0092_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0092_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0093_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0093_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0094_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0094_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0095_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0095_05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0096_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0096_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0097_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0097_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0098_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0098_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0099_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0099_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0100_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0100_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0101_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0101_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0102_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0102_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0103_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0103_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0104_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0104_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0105_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0105_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0106_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0106_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0107_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0107_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0108_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0108_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0109_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0109_05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0110_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0110_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0111_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0111_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0112_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0112_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0113_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0113_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0114_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0114_05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0115_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0115_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0116_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0116_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0117_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0117_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0118_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0118_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0119_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0119_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0120_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0120_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0121_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0121_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0122_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0122_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0123_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0123_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0124_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0124_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0125_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0125_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0126_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0126_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0127_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0127_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0128_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0128_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0129_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0129_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0130_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0130_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0131_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0131_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0132_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0132_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0133_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0133_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0134_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0134_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0135_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0135_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0136_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0136_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0137_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0137_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0138_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0138_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0139_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0139_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0140_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0140_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0141_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0141_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0142_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0142_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0143_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0143_05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0144_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0144_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0145_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0145_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0146_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0146_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0147_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0147_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0148_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0148_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0149_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0149_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0150_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0150_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0151_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0151_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0152_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0152_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0153_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0153_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0154_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0154_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0155_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0155_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0156_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0156_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0157_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0157_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0158_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0158_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0159_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0159_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0160_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0160_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0161_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0161_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0162_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0162_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0163_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0163_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0164_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0164_05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0165_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0165_05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0166_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0166_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0167_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0167_05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0168_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0168_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0169_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0169_05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0170_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0170_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0171_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0171_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0172_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0172_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0173_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0173_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0174_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0174_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0175_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0175_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0176_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0176_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0177_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0177_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0178_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0178_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0179_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0179_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0180_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0180_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0181_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0181_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0182_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0182_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0183_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0183_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0184_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0184_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0185_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0185_05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0186_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0186_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0187_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0187_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0188_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0188_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0189_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0189_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0190_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0190_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0191_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0191_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0192_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0192_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0193_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0193_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0194_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0194_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0195_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0195_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0196_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0196_05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0197_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0197_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0198_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0198_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0199_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0199_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0200_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0200_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0201_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0201_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0202_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0202_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0203_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0203_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0204_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0204_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0205_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0205_05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0206_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0206_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0207_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0207_05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0208_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0208_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0209_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0209_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0210_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0210_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0211_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0211_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0212_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0212_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0213_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0213_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0214_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0214_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0215_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0215_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0216_05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0216_05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0217_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0217_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0218_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0218_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0219_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0219_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0220_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0220_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0221_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0221_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0222_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0222_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0223_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0223_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0224_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0224_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0225_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0225_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0226_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0226_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0227_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0227_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0228_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0228_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0229_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0229_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0230_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0230_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0231_03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0231_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0232_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0232_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0233_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0233_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0234_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0234_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0235_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0235_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0236_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0236_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0237_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0237_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0238_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0238_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0239_06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0239_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0240_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0240_01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0241_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0241_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0242_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0242_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0243_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0243_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0244_09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0244_09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0245_07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0245_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0246_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0246_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0247_08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0247_08.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0248_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0248_02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0249_04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0249_04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0250_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/figs_0/s0250_10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/readme_sd04.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/FULLTEXT01.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Minutiae Based Extraction in Fingerprint Recognition.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/caf98a26106f995b2ef5740e1a9e22ce3543.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task1 - Fingerprint feature extraction/screenshot.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,17 +1042,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Files/Note.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="401">
+              <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/latent-fingerprint-master/fingerprint_python/preprocessor/test.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Task2 - Image noise remover/Content/Code/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="399">
+              <caret line="25" column="63" selection-start-line="25" selection-start-column="63" selection-end-line="25" selection-end-column="63" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
               </folding>
@@ -79,13 +1079,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Files/Note.txt" />
         <option value="$PROJECT_DIR$/Task2 - Image noise remover/Content/Code/main.py" />
+        <option value="$PROJECT_DIR$/Files/Note.txt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1106" />
+    <option name="y" value="369" />
     <option name="width" value="1294" />
     <option name="height" value="1047" />
   </component>
@@ -164,7 +1165,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Task2 - Image noise remover/Content/Code" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="PyScientificConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -210,6 +1211,9 @@
       <module name="robotvision-project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task2 - Image noise remover/Content/Code" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -243,16 +1247,18 @@
       <updated>1557372511293</updated>
       <workItem from="1557372512831" duration="5168000" />
       <workItem from="1557396823405" duration="10107000" />
+      <workItem from="1557455683293" duration="3356000" />
+      <workItem from="1557470797665" duration="18000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15310000" />
+    <option name="totallyTimeSpent" value="18684000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="744" extended-state="6" />
+    <frame x="1106" y="369" width="1294" height="1047" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23058252" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23662885" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -266,18 +1272,23 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.7643208" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="11" visible="true" weight="0.47954175" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="11" visible="true" weight="0.36433262" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
-      <window_info anchor="right" x="0" y="0" width="274" height="544" id="Documentation" sideWeight="0.50487804" side_tool="true" weight="0.30987054" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" x="810" y="134" width="181" height="381" id="SciView" order="3" sideWeight="0.49512196" visible="true" weight="0.30987054" />
+      <window_info anchor="right" x="810" y="134" width="181" height="381" id="SciView" order="3" sideWeight="0.49317408" weight="0.30961844" />
       <window_info anchor="right" id="Database" order="4" sideWeight="0.49756098" weight="0.32928804" />
+      <window_info anchor="right" x="0" y="0" width="274" height="544" id="Documentation" order="5" sideWeight="0.5068259" side_tool="true" visible="true" weight="0.30961844" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/safaribooks" />
+    </ignored-roots>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/robotvision_project$main.coverage" NAME="main Coverage Results" MODIFIED="1557403961404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Task2 - Image noise remover/Content/Code" />
@@ -299,22 +1310,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Files/Project guide.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/457_a2-master/457_a2-master/main.py" />
+    <entry file="file://$USER_HOME$/Downloads/minutiae_extraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="180" lean-forward="true" selection-start-line="180" selection-end-line="180" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Files/Note.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="401">
+          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Task2 - Image noise remover/Content/Code/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="399">
+          <caret line="25" column="63" selection-start-line="25" selection-start-column="63" selection-end-line="25" selection-end-column="63" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task1 - Fingerprint feature extraction/Content/Dataset/latent-fingerprint-master/fingerprint_python/preprocessor/test.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
