@@ -4,8 +4,8 @@ from scipy import fftpack
 import numpy as np
 from skimage.color import rgb2gray
 
-original = "fg.bmp"
-denoise = "d.jpg"
+original = "../Dataset/mit_noise_periodic.jpg"
+denoise = "mit.jpg"
 
 load = io.imread(original)
 image = rgb2gray(load)

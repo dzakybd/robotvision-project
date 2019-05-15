@@ -8,7 +8,6 @@
 
 from __future__ import division
 import cv2
-import cv
 import os
 import sys
 import argparse
@@ -202,7 +201,7 @@ def thin(image, array, num=10):
 
     height, width = image.shape[:2]
     size = (width, height)
-    img_thin = cv.CreateImage(size, 8, 1)
+    img_thin = cv2.CreateImage(size, 8, 1)
     img_thin = image[:]
     for i in range(num):
         VThin(img_thin, array)

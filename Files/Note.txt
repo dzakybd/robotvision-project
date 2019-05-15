@@ -21,7 +21,7 @@ http://harmony.cs.pusan.ac.kr → lecture note → There is a picture in Daehae 
 Judul: Latent Fingerprint Minutae Extraction using ResNet
 
 (b) Remove the noise from the photo that was sent from the moon. (periodic noise / halftone /sinusoidal noise)
-Judul: Periodic Noise Reduction using Adaptive Notch Filter
+Judul: Periodic Noise Reduction using ResNet
 
 This example creates periodic noise by adding two 2-D sinusoids with varying frequency and phase to the video frames. Then it removes this noise using a frequency-domain or spatial-domain filter
 
